@@ -10,3 +10,9 @@
 
 - https://tmuxcheatsheet.com
 
+Commands:
+
+	$ tmux -s name-session  # to create a persistent session
+	$ tmux list-sessions	# to list the tmux sessions
+	$ tmux a -t powercoders	# can't remember!
+
